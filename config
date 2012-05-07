@@ -1,4 +1,6 @@
 [global_config]
+  title_transmit_bg_color = "#ffe891"
+  title_transmit_fg_color = "#000000"
 [keybindings]
   go_up = <Alt>k
   switch_to_tab_10 = <Alt>0
@@ -16,6 +18,9 @@
   switch_to_tab_3 = <Alt>3
 [profiles]
   [[default]]
+    background_darkness = 0.48
+    background_color = "#ffffdd"
+    foreground_color = "#000000"
 [layouts]
   [[default]]
     [[[child1]]]
