@@ -16,6 +16,9 @@
   switch_to_tab_3 = <Alt>3
 [profiles]
   [[default]]
+    background_darkness = 0.48
+    background_color = "#300a24"
+    foreground_color = "#ffffff"
 [layouts]
   [[default]]
     [[[child1]]]
