@@ -1,4 +1,5 @@
 [global_config]
+  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
   title_transmit_bg_color = "#ffe891"
   title_transmit_fg_color = "#000000"
 [keybindings]
