@@ -4,25 +4,27 @@
   title_transmit_fg_color = "#000000"
 [keybindings]
   go_up = <Alt>k
-  go_down = <Alt>j
-  go_right = <Alt>l
-  go_left = <Alt>h
-  switch_to_tab_1 = <Alt>1
-  switch_to_tab_2 = <Alt>2
-  switch_to_tab_3 = <Alt>3
+  switch_to_tab_10 = <Alt>0
   switch_to_tab_4 = <Alt>4
-  switch_to_tab_5 = <Alt>5
   switch_to_tab_6 = <Alt>6
   switch_to_tab_7 = <Alt>7
-  switch_to_tab_8 = <Alt>8
+  go_down = <Alt>j
+  switch_to_tab_5 = <Alt>5
+  switch_to_tab_2 = <Alt>2
+  go_right = <Alt>l
+  switch_to_tab_1 = <Alt>1
+  go_left = <Alt>h
   switch_to_tab_9 = <Alt>9
-  switch_to_tab_10 = <Alt>0
+  switch_to_tab_8 = <Alt>8
+  switch_to_tab_3 = <Alt>3
 [profiles]
   [[default]]
+    use_system_font = False
     background_darkness = 0.48
     scrollback_lines = 5000
-    background_color = "#ffffdd"
     foreground_color = "#000000"
+    font = Ubuntu Mono 11
+    background_color = "#ffffdd"
 [layouts]
   [[default]]
     [[[child1]]]
