@@ -8,4 +8,4 @@ please visit the [article][1] (Chinese version)
 ## how to use
 just clone this project into the dir `~/.config/terminator/` , and that's all.
 
-  [1]: http://www.zavakid.com/178
+  [1]: http://www.zavakid.com/2012/05/05/using_terminator/
